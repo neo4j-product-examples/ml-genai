@@ -16,3 +16,6 @@ This example leverages the [H&M Personalized Fashion Recommendations Dataset](ht
    3. `p2-run-knn-similarity.ipynb` - Use Graph Data Science Node Embedding and K-Nearest Neighbor (KNN) to Enrich the Graph for Recommendations
    4. `p3-semantic-search-with-recommendations.ipynb` - Demonstrate retrieval of recommendations with semantic search
 
+
+## NODES Presentation
+The 2023 NODES presentation that went along with this demo can be found [here](NODES23%20-%20Graph%20Machine%20Learning%20for%202024.pdf)
