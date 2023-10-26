@@ -1,7 +1,8 @@
 # Graph Machine Learning For Recommendations with Semantic Search
 
-Includes 4 parts
-0. Loading graph (including creation of text embeddings)
-1. Simple vector search example
-2. Creating additional relationships with Graph Data Science to power recommendations
-3. Demonstrate semantic search with recommendations
+Includes 4 parts:
+
+1. Loading graph (including creation of text embeddings)
+2. Simple vector search example
+3. Creating additional relationships with Graph Data Science to power recommendations
+4. Demonstrate semantic search with recommendations
